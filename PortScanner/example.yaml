@@ -1,0 +1,8 @@
+exampleConfig:
+  name : example
+  outputFileName : nmapResults
+  outputFileType : csv
+  targetIP : 45.33.32.156 #for multiple hosts: 45.33.32.0/156; to exclude a host, do so in the script
+  portRange : 22-443
+  script : -sS -sC -sV --exclude 45.33.32.156 --spoof-mac 0
+

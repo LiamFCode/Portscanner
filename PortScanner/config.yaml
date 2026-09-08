@@ -1,0 +1,20 @@
+config1:
+  name: version and os scan
+  outputFileName: nmapResults
+  outputFileType: json
+  targetIP: 45.33.32.156
+  script: -sV -O
+config2:
+  name: null
+  outputFileName: null
+  outputFileType: null
+  targetIP: null
+  script: null
+config3:
+  name: null
+  outputFileName: null
+  outputFileType: null
+  targetIP: null
+  script: null
+universalKeys:
+  id: 0

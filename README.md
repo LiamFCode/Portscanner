@@ -7,7 +7,7 @@ When in the reconnaissance stage sometimes you're sitting at a desk with all the
 
 ### Setup:
 Clone repo: <br>
-```git clone github.com/LiamFCode/Portscanner.git``` <br>
+```git clone https://github.com/LiamFCode/Portscanner.git``` <br>
 <br>
 Edit the config.yaml file to build scripts, using Nmap syntax for the arguments. <br>
 ```name``` corresponds to what is displayed in the terminal when selecting between scripts. <br>

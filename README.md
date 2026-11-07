@@ -1,7 +1,7 @@
 # Port Scanner
 A lightweight Nmap wrapper designed to simplify command construction, provide quickly executable script presets, and overall streamline the reconnaissance process.
 
-When in the reconnaissance stage sometimes you're sitting at a desk with all the time in the world and a collection of tools, but sometimes you simply don't have that time luxury and you need to be able to use those tools much faster. Nmap is a phenomenal tool, and is incredibly powerful, but in a pinch needing to remember exact arguments and flags to write out the right script can be tedious. This project is a wrapper for Nmap that allows you to write those script out before-hand and run them at a moments notice with a user-friendly interface.
+When in the reconnaissance stage sometimes you're sitting at a desk with all the time in the world and a collection of tools, but sometimes you simply don't have that time luxury and you need to be able to use those tools much faster. Nmap is a phenomenal tool, and is incredibly powerful, but in a pinch needing to remember exact arguments and flags to write out the right script can be tedious. This project is a wrapper for Nmap that allows you to write those script out beforehand and run them at a moments notice with a user-friendly interface.
 
 ## Implementation
 
